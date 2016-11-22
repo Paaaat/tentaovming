@@ -13,7 +13,7 @@ namespace tentaovming
         static string cns = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=NORTHWND;Integrated Security=True;Connect Timeout=60;Encrypt=False;TrustServerCertificate=True;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
         static void Main(string[] args)
         {
-            //
+            
             //Find("ALFKI");                     UPPGIFT1 (ADO)
             //ListordersByCustomers("ALFKI");    UPPGIFT4 (ENTITY FRAMEWORK)
             //IncreaseBeveragesByEightPercent(); UPPGIFT6 (ENTITY FRAMEWORK)
